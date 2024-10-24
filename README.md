@@ -162,3 +162,5 @@
 # CONCLUSION 
 • Strongest positive correlation is Atlanta Hawks' Defensive Rating Last 2 Games Moving Average with correlation coefficients: .505 & p-value: 0.000003 <br>
 • Strongest negative correlation is Oklahoma City Thunder's Second Chance Points in Last 2 Games Moving Average with correlation coefficient: -.461 & p-value: 0.00002
+
+![](https://komarev.com/ghpvc/?username=your-olutosinfashusi)
