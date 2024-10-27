@@ -159,7 +159,7 @@
 &nbsp;&nbsp;&nbsp; [Scoring Box Score](https://www.nba.com/stats/teams/boxscores-scoring?SeasonType=Regular+Season&Season=2023-24) <br>
 &nbsp;&nbsp;&nbsp; [NBA Stats Glossary](https://www.nba.com/stats/help/glossary) <br>
 
-# CONCLUSION 
+# CONCLUSION:
 • Strongest positive correlation is Atlanta Hawks' Defensive Rating Last 2 Games Moving Average with correlation coefficients: .505 & p-value: 0.000003 <br>
 • Strongest negative correlation is Oklahoma City Thunder's Second Chance Points in Last 2 Games Moving Average with correlation coefficient: -.461 & p-value: 0.00002
 
